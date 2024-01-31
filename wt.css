@@ -185,6 +185,7 @@ body {
     flex-wrap: wrap;
     height: 350vh;
     border: 10px solid goldenrod;
+      width:200vh;
   }
   
   .product {
