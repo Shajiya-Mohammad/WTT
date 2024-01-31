@@ -85,7 +85,12 @@ body {
     margin: auto;
     margin-top: 20px;
   }
-  
+  @Media screen and (max-width:700px){
+    #leftsidebar {
+      width:200px; float:left;
+    }
+    #main{margin: left 216px;}
+  }
   .login-form {
     background-color: #fff;
     padding: 30px;
