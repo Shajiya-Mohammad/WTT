@@ -266,6 +266,8 @@ button:hover {
 .contact {
   text-align: center;
   margin: 30px;
+  width:100%;
+  box-sizing:border-box;
 }
 
 .section-title {
