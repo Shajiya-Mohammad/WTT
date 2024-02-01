@@ -225,7 +225,7 @@ button:hover {
 .featured-products {
   display: flex;
   justify-content: space-around;
-  margin: 0px;
+  margin: 10px;
   flex-direction: row;
   flex-wrap: wrap;
   border: 10px solid goldenrod;
